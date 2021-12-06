@@ -2,7 +2,6 @@
 
 [![Svelte Crash Course video](https://img.youtube.com/vi/uK2RnIzrQ0M/0.jpg)](https://youtu.be/uK2RnIzrQ0M "Svelte Crash Course")
 
-https://youtu.be/
 
 > Simple scoreboard app, showcasing Svelte.js
 
