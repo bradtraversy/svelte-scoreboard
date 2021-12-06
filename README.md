@@ -8,7 +8,7 @@
 ## Get started
 
 Intall new svelte-app
-`npx degit sveltejs/template svelte-scoreboard && cd svelte-scoreboard && npm i`
+`npx degit sveltejs/template svelte-scoreboard && cd svelte-scoreboard`
 
 Install svelte vs code plugin.
 
